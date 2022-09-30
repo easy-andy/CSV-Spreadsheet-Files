@@ -1,5 +1,5 @@
 postcode,defunct (y/n) [as of September 2022],if when (M/Y),eastings,northings,latitude,longitude,town,region,country,country_string,
-AB16,Y,June 2012,390600,807800,57.16115,-2.15543,Aberdeen,Aberdeen City,SCT,Scotland,"So I think the rest of this will have to be done manually, so I think I'll have it so that it's changed to include only the ones with 9BJ suffix and then whether or not they're defunct or not. For example, NE6 9BJ is a defunct postcode and has been since 2014, might want to make note of the year as well."
+AB16,Y,June 2012,390600,807800,57.16115,-2.15543,Aberdeen,Aberdeen City,SCT,Scotland,
 AL6,N,,524200,216300,51.83104,-0.19737,Welwyn,Hertfordshire,ENG,England,
 B16,N,,404500,286500,52.47604,-1.93374,,Birmingham,ENG,England,
 B36,N,,415000,289600,52.50373,-1.77899,Castle Bromwich,Solihull,ENG,England,
